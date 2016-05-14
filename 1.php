@@ -2,5 +2,5 @@
 /**
  * XIE--Scorpion
  */
- echo '1';
+ echo '123';
 ?>
